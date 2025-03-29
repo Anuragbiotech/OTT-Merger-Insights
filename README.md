@@ -12,6 +12,8 @@
 5. **Downgrade Patterns**: Analysis of subscription downgrades and associated trends.
 6. **Content Consumption Behavior**: Patterns in total watch time, device preferences, and variations by user demographics.
 
+The link to the project file is: [Challenge #14 by CodeBasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
 I would like to express my sincere gratitude to [CodeBasics](https://www.linkedin.com/company/codebasics/posts/?feedView=all) for providing this incredible project opportunity. 
 
 A special thanks to [Hemanand Vadivel](https://www.linkedin.com/in/hemvad/) and [Dhaval Patel](https://www.linkedin.com/in/dhavalsays/) for their leadership, guidance, and continuous support throughout this project. Their efforts in making this initiative possible are truly appreciated.
